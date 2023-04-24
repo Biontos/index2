@@ -1,0 +1,19 @@
+.wrapper {
+    max-width: 1026px;
+    margin: 0 auto;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.button {
+    text-align:center; 
+}   
+.region {
+   margin-right: auto;
+   display: inline;
+
+}
+body{
+    background-color: #17F213;
+}
+.shapka{
+    position: relative 0 100 100 100px;
+}
